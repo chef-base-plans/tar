@@ -1,4 +1,4 @@
-tar_path = attribute('tar_path', default: '/bin/tar')
+tar_path = input('tar_path', value: '/bin/tar')
 
 describe file(tar_path) do
   it { should exist }

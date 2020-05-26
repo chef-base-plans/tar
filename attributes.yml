@@ -1,2 +1,0 @@
-tar_path: '/bin/tar'
-tar_test: '/bin/tar -cvf run.tar /hab/svc/tar/hooks/run'
