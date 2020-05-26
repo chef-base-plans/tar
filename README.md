@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/chefcorp-partnerengineering/Chef%20Base%20Plans/_apis/build/status/chef-base-plans.tar?branchName=master)](https://dev.azure.com/chefcorp-partnerengineering/Chef%20Base%20Plans/_build/latest?definitionId=75&branchName=master)
+
 # tar
 
 GNU Tar provides the ability to create tar archives, as well as various other kinds of manipulation.
