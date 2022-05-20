@@ -1,8 +1,7 @@
 pkg_name=tar
 pkg_origin=core
 # tar xf for 1.32 and greater is failing on kernel2 with `Cannot change mode to rwxrwxr-x: Invalid argument`
-# sticking with 1.30 on linux2 for for now
-pkg_version=1.34
+pkg_version=1.30 # linux2 should remain at 1.30
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_description="\
 GNU Tar provides the ability to create tar archives, as well as various other \
